@@ -1,0 +1,23 @@
+{
+  "name": "ai-web-browser-agent",
+  "version": "1.0.0",
+  "description": "An AI Web Browser Agent that can perform basic browsing tasks such as going to a URL, clicking buttons, filling in forms, and scraping data from webpages.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "AI",
+    "Web",
+    "Browser",
+    "Agent",
+    "Node.js",
+    "Puppeteer"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.4.0"
+  }
+}
